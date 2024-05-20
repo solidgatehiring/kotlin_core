@@ -45,3 +45,6 @@
 — конкурентна оплата праці<br>
 — можливість працювати віддалено<br>
 — сучасна техніка Apple<br>
+
+## <h3> Мем дня 🤝
+![balloon-no-one-people-who-use-light-ide-theme](https://github.com/solidgatehiring/kotlin_core/assets/142014633/7c7e7e5c-5a79-4f49-859e-a34a74343c2f)
